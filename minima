@@ -1,0 +1,10 @@
+title: Takahiro Oda
+author: GitHub User
+email: taka-oda@keio.jp
+description: > # this means to ignore newlines until "baseurl:"
+
+# social links
+twitter_username: 0directi0n_ # DO NOT include the @ character, or else the build will fail!
+github_username:  taka-oda # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
