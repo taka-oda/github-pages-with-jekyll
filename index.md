@@ -18,6 +18,6 @@ News
 
 2020.4: Published the slide at ACM-SIGIR TOKYO as planned. FInd out MORE.
 
-2020.3:  Started working at LearnLab (@ Carnegie Mellon University) as a Research Assistant.
+2020.3: Started working at LearnLab (@ Carnegie Mellon University) as a Research Assistant.
 
 2020.2: It is with deep regret to announce that we won't be able to hold upcoming invited talks at ACM SIGIR TOKYO April 25 as planned. Find out MORE.
